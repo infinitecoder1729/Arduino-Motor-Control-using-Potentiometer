@@ -13,5 +13,8 @@ A basic Arduino Circuit and Code Setup containing A Servo motor along with a Pot
 
 ## Video of Simulation :
 
-## Link to TinkerCAD : https://www.tinkercad.com/things/1f20aNyZTzt?sharecode=5FTRHCtUZAioNJYGm9C8ML99pPxJ5VaMTotXjBfsxic
+https://user-images.githubusercontent.com/77016507/227621123-30e150a8-22ee-4e49-9a9a-5e2c3b019b7c.mp4
 
+Notice how the Angle of Movement in Motor Changes with the Change in Potentiometer
+
+## Link to TinkerCAD : https://www.tinkercad.com/things/1f20aNyZTzt?sharecode=5FTRHCtUZAioNJYGm9C8ML99pPxJ5VaMTotXjBfsxic
