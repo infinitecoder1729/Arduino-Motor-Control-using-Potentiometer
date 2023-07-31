@@ -17,4 +17,6 @@ https://user-images.githubusercontent.com/77016507/227621123-30e150a8-22ee-4e49-
 
 Notice how the Angle of Movement in Motor Changes with the Change in Potentiometer
 
+Physical Implementation Video : https://drive.google.com/file/d/1sQcZBEUUSyNKuWz8UvLw-YeGsttM0zi0/view?usp=sharing (Video Credit : https://github.com/Zendovo)
+
 ## Link to TinkerCAD : https://www.tinkercad.com/things/1f20aNyZTzt?sharecode=5FTRHCtUZAioNJYGm9C8ML99pPxJ5VaMTotXjBfsxic
